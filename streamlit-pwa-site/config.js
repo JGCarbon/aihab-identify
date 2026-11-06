@@ -3,11 +3,11 @@ const CONFIG = {
     cacheVersion: "v8",
 
     // General App Info
-    appName: "AI-Hab Identify",
-    appShortName: "AI-Hab Identify",
+    appName: "Carbonsee",
+    appShortName: "Carbonsee",
     
     // Iframe Config
-    iframeUrl: "https://aihab-uk-api-usage-demo.hf.space?embed=true&show_footer=false",
+    iframeUrl: "https://carbonsee.app/?embed=true&show_footer=false",
     
     // Visuals & Icons
     themeColor: "#78bf81",
