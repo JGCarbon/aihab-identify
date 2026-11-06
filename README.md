@@ -64,3 +64,4 @@ Once configured, you can deploy this site to any static hosting provider such as
 1.  Navigate to your deployed URL on a mobile device or desktop.
 2.  **iOS (Safari)**: Tap the "Share" button -> "Add to Home Screen".
 3.  **Android (Chrome)**: Tap the menu (three dots) -> "Install App" or "Add to Home Screen".
+4.  
