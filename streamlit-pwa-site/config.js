@@ -1,6 +1,6 @@
 const CONFIG = {
     // Cache Version
-    cacheVersion: "v8",
+    cacheVersion: "v9",
 
     // General App Info
     appName: "Carbonsee",
